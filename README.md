@@ -1,4 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Luiz Fernando Bevilacqua</title>
 
+<style>
+
+body{
+font-family: Arial, Helvetica, sans-serif;
+max-width: 800px;
+margin: auto;
+line-height: 1.6;
+padding: 20px;
+background-color: #fafafa;
+color: #333;
+}
+
+h1{
+border-bottom: 2px solid #ddd;
+padding-bottom: 10px;
+}
+
+h2{
+margin-top: 40px;
+}
+
+a{
+color:#2a5db0;
+text-decoration:none;
+}
+
+a:hover{
+text-decoration:underline;
+}
+
+nav{
+margin-bottom:30px;
+}
+
+nav a{
+margin-right:15px;
+font-weight:bold;
+}
+
+footer{
+margin-top:50px;
+font-size:14px;
+color:#777;
+}
+
+</style>
+</head>
+
+<body>
 
 <h1>Luiz Fernando Bevilacqua</h1>
 
