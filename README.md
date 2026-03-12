@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
+
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Luiz Fernando Bevilacqua</title>
@@ -26,15 +28,6 @@ h2{
 margin-top: 40px;
 }
 
-a{
-color:#2a5db0;
-text-decoration:none;
-}
-
-a:hover{
-text-decoration:underline;
-}
-
 nav{
 margin-bottom:30px;
 }
@@ -42,15 +35,32 @@ margin-bottom:30px;
 nav a{
 margin-right:15px;
 font-weight:bold;
+color:#2a5db0;
+text-decoration:none;
+}
+
+nav a:hover{
+text-decoration:underline;
+}
+
+p{
+margin-bottom:15px;
+}
+
+ul{
+padding-left:20px;
 }
 
 footer{
 margin-top:50px;
 font-size:14px;
 color:#777;
+border-top:1px solid #ddd;
+padding-top:15px;
 }
 
 </style>
+
 </head>
 
 <body>
