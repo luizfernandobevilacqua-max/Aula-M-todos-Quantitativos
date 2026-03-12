@@ -116,15 +116,15 @@ You can download my CV <a href="#">here</a>.
 <h2>Contact</h2>
 
 <p>
-Email: luizfernandobevilacqua@usp.br
+Email: luizfernandobevilacqua@usp.br 
 </p>
 
 <p>
-GitHub: <a href="#">https://github.com/luizfernandobevilacqua-max
+GitHub: <a href="#">https://github.com/luizfernandobevilacqua-max 
 </p>
 
 <p>
-LinkedIn: <a href="#">https://www.linkedin.com/in/luiz-fernando-bevilacqua-962952211/
+LinkedIn: <a href="#">https://www.linkedin.com/in/luiz-fernando-bevilacqua-962952211/ 
 </p>
 
 </section>
